@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "App Multi-Vista",
+    "slug": "app-multi-vista",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.santiago.appmultivista",
+      "versionCode": 1
+    }
+  }
+}
